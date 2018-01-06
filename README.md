@@ -1,2 +1,2 @@
 
-[Guloso](guloso/guloso.md)
+[Guloso](guloso/guloso)
