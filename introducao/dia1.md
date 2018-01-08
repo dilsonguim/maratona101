@@ -1,7 +1,7 @@
 Introdução
 ---
 
-# Problemas de exemplo:
+### Problemas de exemplo:
 
 [Tomadas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1930)
 
@@ -19,6 +19,6 @@ Introdução
 
 [Pontes Mágicas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1706)
 
-# Competição:
+### Competição:
 
 [Link para o codepit](https://www.codepit.io/#/contest/5a52210601a96e0019405826/view)
