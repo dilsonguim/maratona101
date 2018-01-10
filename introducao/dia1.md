@@ -22,3 +22,12 @@ Dia 1
 ### Competição:
 
 [Link para o codepit](https://www.codepit.io/#/contest/5a52210601a96e0019405826/view)
+
+### Implementações:
+
+[A](src/a.cpp)
+[B](src/b.cpp)
+[D](src/d.cpp)
+[E](src/e.cpp)
+[Busca em largura](src/bfs.cpp)
+
