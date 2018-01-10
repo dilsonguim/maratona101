@@ -26,8 +26,12 @@ Dia 1
 ### Implementações:
 
 [A](src/a.cpp)
+
 [B](src/b.cpp)
+
 [D](src/d.cpp)
+
 [E](src/e.cpp)
+
 [Busca em largura](src/bfs.cpp)
 
