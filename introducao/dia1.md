@@ -17,8 +17,6 @@ Dia 1
 
 [Coloração de Cenários de Jogos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1907)
 
-[Pontes Mágicas](https://www.urionlinejudge.com.br/judge/pt/problems/view/1706)
-
 ### Competição:
 
 [Link para o codepit](https://www.codepit.io/#/contest/5a52210601a96e0019405826/view)
