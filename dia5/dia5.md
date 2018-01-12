@@ -27,4 +27,5 @@ Introduction to Algorithms,  Thomas H. Cormen, Charles E. Leiserson, Ronald L. R
 ### Sites com competições:
 
 [Codeforces](https://codeforces.com)
+
 [CS Academy](https://csacademy.com/)
