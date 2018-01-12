@@ -11,7 +11,11 @@ Dia 5
 
 ### Implementações:
 
+[To One - top down / memoization](src/to_one_memoization.cpp)
 
+[To One - bottom up](src/to_one.cpp)
+
+[Desculpa (Mochila)](src/desculpa.cpp)
 ### Livros:
 
 [Competitive Programming](https://cpbook.net/)
